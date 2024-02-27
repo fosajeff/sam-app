@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sam-app
 
 This project contains source code and supporting files for a serverless application that you can deploy with the AWS Serverless Application Model (AWS SAM) command line interface (CLI). It includes the following files and folders:
@@ -161,4 +160,3 @@ For an introduction to the AWS SAM specification, the AWS SAM CLI, and serverles
 Next, you can use the AWS Serverless Application Repository to deploy ready-to-use apps that go beyond Hello World samples and learn how authors developed their applications. For more information, see the [AWS Serverless Application Repository main page](https://aws.amazon.com/serverless/serverlessrepo/) and the [AWS Serverless Application Repository Developer Guide](https://docs.aws.amazon.com/serverlessrepo/latest/devguide/what-is-serverlessrepo.html).
 =======
 # sam-app
->>>>>>> 9673ab53e625df0f2a2ae0cc092ec0fc056a4843
